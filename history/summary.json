@@ -46,9 +46,9 @@
     "url": "$CLINIC_SITES_LIVE_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jane-websites-live-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 766,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2025-12-12": 9
     }
   }
