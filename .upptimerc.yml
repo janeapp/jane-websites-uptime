@@ -6,12 +6,15 @@ repo: clinic-sites-uptime
 sites:
   - name: JaneWebsites.com
     url: https://janewebsites.com
+    slug: janewebsites-com
   - name: Jane Websites Site Preview
     url: https://template1.janewebsites.com
     faviconSvg: https://icons.duckduckgo.com/ip3/janewebsites.com.ico
+    slug: janewebsites-site-preview
   - name: Jane Websites Live Domain
     url: $CLINIC_SITES_LIVE_DOMAIN
     favicon: https://icons.duckduckgo.com/ip3/janewebsites.com.ico
+    slug: janewebsites-live-domain
 assignees:
   - James-Pike-Jane
   - brycemevans-jane
