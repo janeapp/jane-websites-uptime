@@ -4,19 +4,19 @@
     "url": "https://janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/janewebsites.com.ico",
     "slug": "janewebsites-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 555,
-    "timeWeek": 927,
-    "timeMonth": 1029,
-    "timeYear": 1029,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1067,
+    "timeDay": 950,
+    "timeWeek": 1017,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {
-      "2026-02-05": 0
+      "2026-02-05": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://template1.janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/template1.janewebsites.com.ico",
     "slug": "janewebsites-site-preview",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 633,
-    "timeWeek": 986,
-    "timeMonth": 1142,
-    "timeYear": 1142,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1182,
+    "timeDay": 1058,
+    "timeWeek": 1088,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2026-02-05": 0
+      "2026-02-05": 35
     }
   },
   {
