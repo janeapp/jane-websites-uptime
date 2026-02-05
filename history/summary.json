@@ -4,36 +4,40 @@
     "url": "https://janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/janewebsites.com.ico",
     "slug": "janewebsites-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 930,
-    "timeWeek": 1033,
-    "timeMonth": 1079,
-    "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "time": 1029,
+    "timeDay": 555,
+    "timeWeek": 927,
+    "timeMonth": 1029,
+    "timeYear": 1029,
+    "dailyMinutesDown": {
+      "2026-02-05": 0
+    }
   },
   {
     "name": "Jane Websites Site Preview",
     "url": "https://template1.janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/template1.janewebsites.com.ico",
     "slug": "janewebsites-site-preview",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1195,
-    "timeDay": 1027,
-    "timeWeek": 1093,
-    "timeMonth": 1195,
-    "timeYear": 1195,
-    "dailyMinutesDown": {}
+    "time": 1142,
+    "timeDay": 633,
+    "timeWeek": 986,
+    "timeMonth": 1142,
+    "timeYear": 1142,
+    "dailyMinutesDown": {
+      "2026-02-05": 0
+    }
   },
   {
     "name": "Jane Websites Live Domain",
