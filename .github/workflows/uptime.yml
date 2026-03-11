@@ -37,4 +37,4 @@ jobs:
           command: "update"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-          SECRETS_CONTEXT: '{"CLINIC_SITES_LIVE_DOMAIN": "${{ secrets.CLINIC_SITES_LIVE_DOMAIN }}"}'
+          SECRETS_CONTEXT: '{"NOTIFICATION_CUSTOM_WEBHOOK_URL": "${{ secrets.NOTIFICATION_CUSTOM_WEBHOOK_URL }}", "NOTIFICATION_CUSTOM_WEBHOOK": "${{ secrets.NOTIFICATION_CUSTOM_WEBHOOK }}"}'
