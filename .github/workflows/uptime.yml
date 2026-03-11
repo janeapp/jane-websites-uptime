@@ -37,3 +37,4 @@ jobs:
           command: "update"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          SECRETS_CONTEXT: '{"CLINIC_SITES_LIVE_DOMAIN": "${{ secrets.CLINIC_SITES_LIVE_DOMAIN }}"}'
