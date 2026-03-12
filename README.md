@@ -1,4 +1,4 @@
-# [<img alt="Jane Websites" src="assets/jane-websites-jane-blue.png" width=30> Live Status](https://janeapp.github.io/clinic-sites-uptime): <!--live status--> **🟩 All systems operational**
+# [<img alt="Jane Websites" src="assets/jane-websites-jane-blue.png" width=30> Live Status](https://janeapp.github.io/jane-websites-uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Jane Websites](https://janewebsites.com).
 
@@ -20,7 +20,7 @@ This repository contains the open-source uptime monitor and status page for [Jan
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://janeapp.github.io/clinic-sites-uptime)
+[**Visit our status website →**](https://janeapp.github.io/jane-websites-uptime)
 
 ## 📄 License
 
