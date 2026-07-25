@@ -4,11 +4,11 @@
     "url": "https://janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/janewebsites.com.ico",
     "slug": "janewebsites-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.91%",
     "time": 1106,
     "timeDay": 1318,
@@ -20,7 +20,8 @@
       "2026-02-11": 16,
       "2026-06-03": 103,
       "2026-06-06": 5,
-      "2026-06-11": 32
+      "2026-06-11": 32,
+      "2026-07-25": 10
     }
   },
   {
@@ -28,11 +29,11 @@
     "url": "https://template1.janewebsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/template1.janewebsites.com.ico",
     "slug": "janewebsites-site-preview",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 1246,
     "timeDay": 1289,
@@ -45,7 +46,8 @@
       "2026-06-03": 103,
       "2026-06-06": 4,
       "2026-06-11": 32,
-      "2026-06-13": 50
+      "2026-06-13": 50,
+      "2026-07-25": 5
     }
   },
   {
@@ -53,9 +55,9 @@
     "url": "$CLINIC_SITES_LIVE_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "janewebsites-live-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -69,7 +71,8 @@
       "2026-05-21": 4,
       "2026-06-03": 102,
       "2026-06-06": 4,
-      "2026-06-13": 49
+      "2026-06-13": 49,
+      "2026-07-25": 0
     }
   }
 ]
